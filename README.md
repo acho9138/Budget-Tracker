@@ -23,13 +23,13 @@ npm i
 
 ## Usage
 
-![image](./assets/screenshot.png)
+![image](./public/assets/screenshot.png)
 
 Run the following code in the Terminal or Git Bash to start the server:
 ```
 node server.js
 ```
-Click the [link] to see the deployed version on Heroku!
+Or click the [link](https://evening-escarpment-58276.herokuapp.com/) to see the deployed version on Heroku!
 
 ## License
 
@@ -48,5 +48,3 @@ Thank you to the following resources to help make this app possible:
 - Stack Overflow
 - Node.js
 - NPM
-- [License badge](https://shields.io/category/license)
-- [ReadMe formatting and syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
